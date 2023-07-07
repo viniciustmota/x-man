@@ -7,18 +7,17 @@ body{
 .cabecalho{
     display: flex;
     justify-content: center;
-    background-color: aqua;
 }
 
 .selecao-de-personagens{
     display: flex;
     align-items: center;
     gap: 30px;
-    background-color: blueviolet;
+    min-height: calc(100vh - 152px);
+    justify-content: center;
 }
 
 .selecao-de-personagens .lista-de-personagens{
-    background-color: brown;
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
@@ -26,7 +25,6 @@ body{
 }
 
 .selecao-de-personagens .personagens{
-    background-color: darkslategrey;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -53,7 +51,6 @@ body{
 }
 
 .personagem-selecionado{
-    background-color: green;
     text-align: center;
     max-height: 530px;
 }
