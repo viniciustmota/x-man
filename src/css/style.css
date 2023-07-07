@@ -51,3 +51,28 @@ body{
 .lista-de-personagens .personagem.selecionado{
     box-shadow: 0 0 24px 5px #0271f7;
 }
+
+.personagem-selecionado{
+    background-color: green;
+    text-align: center;
+    max-height: 530px;
+}
+
+.personagem-selecionado .personagem-grande{
+    width: 430px;
+    height: 430px;
+}
+
+.personagem-selecionado .nome-personagem{
+    letter-spacing: 4px;
+    border-bottom: 2px solid #47f4ff;
+    text-transform: uppercase;
+}
+
+.personagem-selecionado .descricao-personagem{
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    width: 420px;
+}
