@@ -2,6 +2,8 @@
 
 São oito personagens dos x-mens, quando você passar o mouse por cima de um deles, irá abrir uma descrição sobre este personagem
 
+![Site x-men](https://github.com/viniciustmota/x-men/assets/106537834/8d809787-655a-476b-85fc-1b01654a3586)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
