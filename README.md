@@ -10,35 +10,26 @@ São oito personagens dos x-mens, quando você passar o mouse por cima de um del
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
+* Tenha instalado [Git](https://git-scm.com/) na sua máquina
+* Use o comando abaixo para baixar o projeto
 ```
 git clone https://github.com/viniciustmota/x-men.git
 
 ```
 
-### 📋 Pré-requisitos
-
-```
-Visual studio code
-```
-
 ## 🛠️ Construído com
 
-* [HTML](https://html.com/document/) - Usado para criar o corpo do projeto
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Usado para estilizar o projeto
-* [JavaScript](https://www.javascript.com/) - Usado para gerar as interações no projeto
+* HTML
+* CSS
+* JavaScript
 
 ## ✒️ Autores
 
-* **Vinicius Tavares Mota** - *Todo o projeto* - [Desenvolvedor](https://github.com/viniciustmota)
-
+* **Vinicius Tavares Mota** - *Todo o projeto* - [Github](https://github.com/viniciustmota) - [Linkedin](https://www.linkedin.com/in/viniciustmota)
 
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para um estagio Front-end;
+* Convide alguém da equipe para um estágio Front-end;
 * Um agradecimento publicamente 🫂;
 * etc.
-
-
----
-⌨️ com ❤️ por [Vinicius Tavares Mota](https://github.com/viniciustmota) 😊
