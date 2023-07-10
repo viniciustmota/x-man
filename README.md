@@ -23,7 +23,7 @@ git clone https://github.com/viniciustmota/x-men.git
 * CSS
 * JavaScript
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **Vinicius Tavares Mota** - *Todo o projeto* - [Github](https://github.com/viniciustmota) - [Linkedin](https://www.linkedin.com/in/viniciustmota)
 
